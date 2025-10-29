@@ -1,0 +1,58 @@
+body {
+    background-color: lightblue;
+    height: calc(100vh - 80.48px);
+    margin: 0; 
+    padding: 0;
+}
+
+h1 {
+    color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10px;
+}
+
+#personaje {
+    width: 200px;
+    height: 300px;
+}
+
+#Mantequilla {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#Guisante {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#Cubeta {
+    width: 70px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#Nuez {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#Revivir {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#Informacion {
+    text-align: center;
+}
+
+#Alinear {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
